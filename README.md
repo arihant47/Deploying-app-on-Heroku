@@ -28,4 +28,8 @@ It should display an "**Authentication Successful**" message
 #**git add app.js** (Also add other files like this or directly use **git add .** to add all files)    
 #**git commit -m "Initial Commit"**    
 3. #**heroku create**    
-4. #**git remote -v** 
+4. #**git remote -v** (This will check whether the git remote has been add to heroku servers or not)    
+5. #**git push heroku master** will push each and every code we added on git
+--------------------
+-> To view errors use #**heroku logs**    
+-> You can always visit https://www.heroku.com/ to change domain name, add some add-ons, temporarily pause or delete the website
