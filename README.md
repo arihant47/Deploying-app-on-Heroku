@@ -12,3 +12,12 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {    
 console.log("Server has started");
  });
+
+## Setting up HEROKU
+###### Steps for terminal (GoormIDE here):
+1. Make sure you are in the right directory    
+2. Heroku is already pre installed in GoormIDE (If not using GoormIDE or Cloud9 download the correct version from heroku docs)    
+3. #**heroku login -i**  and give your details    
+It should display an "**Authentication Successful**" message 
+
+## DEPLOYING
