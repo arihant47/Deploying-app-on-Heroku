@@ -21,3 +21,11 @@ console.log("Server has started");
 It should display an "**Authentication Successful**" message 
 
 ## DEPLOYING
+1. Login into heroku using    
+#**heroku login -i**   
+2. Open the correct directory    
+#**git init**   
+#**git add app.js** (Also add other files like this or directly use **git add .** to add all files)    
+#**git commit -m "Initial Commit"**    
+3. #**heroku create**    
+4. #**git remote -v** 
