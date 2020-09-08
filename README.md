@@ -33,3 +33,6 @@ It should display an "**Authentication Successful**" message
 --------------------
 -> To view errors use #**heroku logs**    
 -> You can always visit https://www.heroku.com/ to change domain name, add some add-ons, temporarily pause or delete the website
+
+# Adding custom domain
+
